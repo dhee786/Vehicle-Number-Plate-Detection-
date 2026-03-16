@@ -21,7 +21,7 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 
 > Replace this with your actual GIF after uploading to repo
 
-![Output video](assests/output_GIF.gif)
+![Output video](assests/output_video.gif)
 
 ---
 
