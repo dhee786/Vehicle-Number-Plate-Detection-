@@ -8,20 +8,20 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 
 ## 📌 Features
 
-* 🔍 Number Plate Detection using YOLO
-* 🎯 Multi-Object Tracking using ByteTrack
-* 🎥 Video Frame Processing Pipeline
-* 🟩 Bounding Box Visualization
-* 💾 Annotated Output Video Generation
-* ⚡ Chunk-based Video Processing (memory efficient)
+- 🔍 Number Plate Detection using YOLO
+- 🎯 Multi-Object Tracking using ByteTrack
+- 🎥 Video Frame Processing Pipeline
+- 🟩 Bounding Box Visualization
+- 💾 Annotated Output Video Generation
+- ⚡ Chunk-based Video Processing (memory efficient)
 
 ---
 
-## 🖼️ Output Preview (GIF)
+## 🖼️ Output Preview
 
 > Replace this with your actual GIF after uploading to repo
 
-![Output GIF](assets/output_video)
+![Output video](assets/output_video.mp4)
 
 ---
 
@@ -29,9 +29,9 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 
 Add screenshots inside `assets/` folder.
 
-| Detection Example           |
-| --------------------------- |
-| ![img1](assets/Output_sample) |
+| Detection Example                 |
+| --------------------------------- |
+| ![img1](assets/Output_sample.png) |
 
 ---
 
@@ -105,10 +105,10 @@ output_video.mp4
 
 ## 🚀 Future Improvements
 
-* 🔤 OCR for number plate text recognition
-* 📊 Save detection logs to CSV / Database
-* 🎥 Real-time webcam detection
-* 🌐 Deploy as Flask / Streamlit Web App
+- 🔤 OCR for number plate text recognition
+- 📊 Save detection logs to CSV / Database
+- 🎥 Real-time webcam detection
+- 🌐 Deploy as Flask / Streamlit Web App
 
 ---
 
