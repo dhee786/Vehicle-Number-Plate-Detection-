@@ -18,9 +18,8 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 ---
 
 ## 🖼️ Output Preview
-
-> Replace this with your actual GIF after uploading to repo
-
+| Detection Example                  |
+| ---------------------------------- |
 ![Output video](assets/.gif)
 
 ---
@@ -29,7 +28,7 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 
 Add screenshots inside `assets/` folder.
 
-| Detection Example                  |
+| Detection Code                  |
 | ---------------------------------- |
 | ![img1](assests/Output_sample.png) |
 
