@@ -1,0 +1,13 @@
+#model files
+*.pt
+
+#videos
+*.mp4
+*.avi
+
+#cache
+__pycache__/
+*.pyc 
+
+#system
+.env
