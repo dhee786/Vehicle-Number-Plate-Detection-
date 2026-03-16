@@ -31,7 +31,7 @@ Add screenshots inside `assets/` folder.
 
 | Detection Example                 |
 | --------------------------------- |
-| ![img1](assets/Output_sample.png) |
+| ![img1](assests/Output_sample.png) |
 
 ---
 
@@ -114,7 +114,7 @@ output_video.mp4
 
 ## 👨‍💻 Author
 
-Dheeraj Kumar
+--- Dheeraj Kumar ---
 Gmail: sharmajidheeraj786@gmail.com
 
 ---
