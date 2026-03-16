@@ -18,6 +18,7 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 ---
 
 ## 🖼️ Output Preview
+
 | Detection Example                  |
 | ---------------------------------- |
 ![Output video](assests/Output_GIF.gif)
@@ -25,8 +26,6 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 ---
 
 ## 📸 Output Sample
-
-Add screenshots inside `assets/` folder.
 
 | Detection Code                  |
 | ---------------------------------- |
