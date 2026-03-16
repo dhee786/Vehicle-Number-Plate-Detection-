@@ -20,7 +20,7 @@ The system reads an input video, detects number plates frame-by-frame, tracks th
 ## 🖼️ Output Preview
 | Detection Example                  |
 | ---------------------------------- |
-![Output video](assets/.gif)
+![Output video](assets/Output_GIF.gif)
 
 ---
 
